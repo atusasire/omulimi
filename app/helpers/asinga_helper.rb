@@ -1,0 +1,2 @@
+module AsingaHelper
+end
