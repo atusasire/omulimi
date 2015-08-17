@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :posts
   root 'asinga#index'
 
   devise_for :farmers
